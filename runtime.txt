@@ -1,6 +1,1 @@
 Python 3.8.2
-appdirs==1.4.3
-distlib==0.3.0
-filelock==3.0.12
-six==1.14.0
-virtualenv==20.0.18
